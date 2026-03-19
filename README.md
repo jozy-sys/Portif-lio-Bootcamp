@@ -38,3 +38,5 @@ Variações de prompts para estudo e prática:
 "Compare a forma tradicional de resolver conflitos com a abordagem da CNV. Quais diferenças você percebe?"
 •	Autoavaliação:
 "Quais barreiras internas (medos, hábitos, crenças) dificultam a prática da CNV no meu dia a dia?"
+
+https://notebooklm.google.com/notebook/d56a3a55-b996-429d-9e05-e7036bffe791
