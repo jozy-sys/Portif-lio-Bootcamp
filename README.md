@@ -1,4 +1,4 @@
-Aprendizagem com IA Com a Utilização do NotebookLM.
+Aprendizagem com IA Com a Utilização do NotebookLM. (https://notebooklm.google.com/notebook/d56a3a55-b996-429d-9e05-e7036bffe791)
 
 Comunicação Não Violenta (CNV) - "Empatia que Fortalece Equipes"
 
